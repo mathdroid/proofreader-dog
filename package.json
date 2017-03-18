@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "axios": "^0.15.3",
+    "node-line-messaging-api": "^0.18.0"
+  },
+  "scripts": {
+    "start": "node src",
+    "test": "ava --verbose"
+  },
+  "devDependencies": {
+    "ava": "^0.18.2"
+  }
+}
